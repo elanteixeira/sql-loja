@@ -1,3 +1,6 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/elanteixeira/sql-loja?style=social)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+
 # Projeto SQL - Loja
 
 Este projeto simula um banco de dados de uma loja utilizando MySQL com foco em:
