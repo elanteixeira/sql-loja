@@ -1,0 +1,42 @@
+
+---
+
+## 🧱 Modelagem
+O banco é composto pelas seguintes entidades:
+- **clientes**
+- **produtos**
+- **pedidos**
+- **itens_pedido**
+
+Relacionamentos:
+- Um cliente pode ter vários pedidos
+- Um pedido pode conter vários produtos
+- Cada item do pedido referencia um produto
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- MySQL
+- SQL padrão ANSI
+- GitHub
+
+---
+
+## 🎯 Objetivo do Projeto
+- Praticar modelagem relacional
+- Trabalhar com FOREIGN KEY
+- Executar INSERTs respeitando integridade referencial
+- Criar consultas com JOIN, GROUP BY e agregações
+
+---
+
+## 📈 Nível SQL Demonstrado
+✔ SQL Básico  
+✔ SQL Intermediário (JOINs, FKs, modelagem)
+
+---
+
+## 🚀 Próximos Passos
+- Criar consultas de faturamento
+- Relatórios por cliente e por período
+- Views e procedures simples
